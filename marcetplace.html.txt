@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Marketplace</title>
+    <style>
+        body { font-family: Arial; background: #000; color: white; padding: 20px; }
+        .box { background: white; color: black; padding: 20px; margin: 10px; border-radius: 10px; }
+        input, button { width: 100%; padding: 10px; margin: 5px 0; }
+    </style>
+</head>
+<body>
+    <h1>Simple Marketplace</h1>
+    <div class="box">
+        <h3>Test App</h3>
+        <p>This is a test app. Replace this with your real code later.</p>
+    </div>
+</body>
+</html>
